@@ -22,5 +22,5 @@ This is the first website I ever built using just HTML code. It is a very basic 
 **4. Will also help learning something more while browsing through this website**
 ![](Images/output4.JPG)
 
-###### [^1]: Hope u will like it... ;D
-###### [^1]: Happy Coding b^.^d
+######  Hope u will like it... ;D
+######  Happy Coding b^.^d
