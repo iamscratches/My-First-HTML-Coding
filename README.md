@@ -6,4 +6,4 @@ This is the first website I ever built using just HTML code. It is a very basic 
 * Hope u will like it
 * I'm also adding few screen shots to it to just look cool thats all. XD
 
-![image1](./Images/output1.jpg)
+![image1](/Images/output1.jpg)
